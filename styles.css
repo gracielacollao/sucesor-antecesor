@@ -122,11 +122,12 @@ audio{
 }
 .header__logo{
   width: 25%;
+  heigh: 25%;
 }
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   .img__question{
     width: 100%;
-    height: auto;
+    height:150px;
   }
   *,
 *::before,
