@@ -87,7 +87,7 @@ function clearStatusClass(element) {
 const questions = [
   {
     question: 'https://i.pinimg.com/originals/8d/78/7e/8d787e52aa9112a722312b6e942d875f.jpg',
-    question2:'¿Cual es el Antecesor de 3?',
+    question2:'Indica el Antecesor de 3',
     answers: [
       { text: '2', correct: true },
       { text: '4', correct: false }
@@ -95,7 +95,7 @@ const questions = [
   },
   {
     question: 'https://vignette.wikia.nocookie.net/minion/images/c/ca/Bob-from-the-minions-movie.jpg/revision/latest?cb=20160316002021&path-prefix=es',
-    question2:'¿Cual es el Sucesor de 5?',
+    question2:'¿Cuál es el Sucesor de 5?',
     answers: [
       { text: '6', correct: true },
       { text: '4', correct: false }
@@ -103,7 +103,7 @@ const questions = [
   },
   {
     question: 'https://www.lavanguardia.com/r/GODO/LV/p0/WebSite/2018/07/24/Recortada/61392-100998-captura-de-pantalla-2015-07-21-a-la-s-09-50-56-584-391-20180724173054@LaVanguardia-Web.jpg',
-    question2:'¿Cual es el Antecesor de 10?',
+    question2:'¿Cuál es el Antecesor de 10?',
     answers: [
       { text: '8', correct: false },
       { text: '9', correct: true }
@@ -111,7 +111,7 @@ const questions = [
   },
   {
     question: 'https://miro.medium.com/max/5760/1*MKtbY0rNn7xqZVV_9IVvYA.jpeg',
-    question2:'¿Cual es el Sucesor de 7?',
+    question2:'Indica el Sucesor de 7',
     answers: [
       { text: '6', correct: false },
       { text: '8', correct: true }
@@ -119,7 +119,7 @@ const questions = [
   },
   {
     question: 'https://frikimaestro.com/wp-content/uploads/2019/12/251-2519248_minion-minions-bob-png.png',
-    question2:'¿Cual es el Antecesor de 8?',
+    question2:'Indica el Antecesor de 8',
     answers: [
       { text: '9', correct: false },
       { text: '7', correct: true }
@@ -127,7 +127,7 @@ const questions = [
   },
   {
     question: 'https://cjmart.jp/en/upload/save_image/0126_190824_mp4otl_y_3.jpg',
-    question2:'¿Cual es el Sucesor de 4?',
+    question2:'¿Cuál es el Sucesor de 4?',
     answers: [
       { text: '3', correct: false },
       { text: '5', correct: true }
@@ -135,7 +135,7 @@ const questions = [
   },
   {
     question: 'https://interactivadigital.com/uploads/2015/06/minion-021313.jpg',
-    question2:'¿Cual es el Sucesor de 1?',
+    question2:'¿Cuál es el Sucesor de 1?',
     answers: [
       { text: '2', correct: true },
       { text: '8', correct: false }
@@ -143,7 +143,7 @@ const questions = [
   },
   {
     question: 'https://partycity6.scene7.com/is/image/PartyCity/_pdp_sq_?$_1000x1000_$&$product=PartyCity/615535',
-    question2:'¿Cual es el Antecesor de 2?',
+    question2:'Indica el Antecesor de 2',
     answers: [
       { text: '3', correct: false },
       { text: '1', correct: true }
@@ -151,7 +151,7 @@ const questions = [
   },
   {
     question: 'https://s1.thcdn.com/productimg/0/960/960/15/11072215-1422271043-819290.jpg',
-    question2:'¿Cual es el Sucesor de 6?',
+    question2:'¿Cuál es el Sucesor de 6?',
     answers: [
       { text: '7', correct: true },
       { text: '5', correct: false }
