@@ -159,7 +159,7 @@ const questions = [
   },
   {
     question: 'https://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/0/1/0130_190824_mp4otl_y_3.jpg',
-    question2:'¿Cual es el Antecesor de 9?',
+    question2:'¿Cuál es el Antecesor de 9?',
     answers: [
       { text: '8', correct: true },
       { text: '10', correct: false }
